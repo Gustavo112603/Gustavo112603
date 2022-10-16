@@ -7,11 +7,11 @@
 
 |Originals Application
 |-------------------------|
- versions Pro
- apk packages
- Download
- Update As Available
- Official Content
+ **versions Pro**
+ **apk packages**
+ **Download**
+ **Update As Available**
+ **Official Content**
 
 
 
