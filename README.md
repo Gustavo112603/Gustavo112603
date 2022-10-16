@@ -7,9 +7,8 @@
 - apk packages
 - Download 
 - Update As Available 
-- Official Content 
--->|
-|-----------------|
+- Official Content|
+|--------------------------|
 
 
 
