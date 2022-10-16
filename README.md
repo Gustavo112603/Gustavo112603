@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- Check out our Apps [Site](https://github.com/Gustavo112603/seal/releases/tag/AppModsPro) informaticode
+- Check out our Apps [Site](https://github.com/Gustavo112603/seal/releases/tag/AppModsPro)
 - 
 - 
 - 
