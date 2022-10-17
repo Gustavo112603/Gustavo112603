@@ -7,7 +7,7 @@
 
 |Originals Application
 |-------------------------|
- **versions Pro**
+ <font color="#0D497C"**versions Pro**>/font>
  **apk packages**
  **Download**
  **Update As Available**
