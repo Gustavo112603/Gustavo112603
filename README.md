@@ -42,7 +42,7 @@
 |<h6> [**com.samsung.systemui.navillera_4.1.03.20-410320000_minAPI31.nodpi._apkmirror.com.apk**]()   
 |<h6> [**com.samsung.android.app.captureplugin_2.0.06-200600000_minAPI31.nodpi._apkmirror.com.apk**]()  
 |<h6> [**com.samsung.android.thermalguardian_3.0.46-304600000_minAPI30.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()  
-|<h6> [**com.samsung.android.sidegesturepad_5.5.25.0-552500000_minAPI24.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**[()   
+|<h6> [**com.samsung.android.sidegesturepad_5.5.25.0-552500000_minAPI24.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()   
 |<h6> [**com.samsung.android.themedesigner_1.0.09.32-100932000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()   
 |<h6> [**com.samsung.android.memoryguardian_3.0.46-304600000_minAPI30.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()   
 |<h6> [**com.android.samsung.utilityagent_3.0.45-304500000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()
