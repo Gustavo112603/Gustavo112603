@@ -28,7 +28,7 @@
 [**music-revanced-v5.28.51-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.28.51-arm64-v8a.apk)
 
 
-           |Samsung Modules|
+|          Samsung Modules|
 |--------------------------------------------------------------------------------------------------------------------|
 com.samsung.android.appbooster_4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk   
 com.samsung.android.goodlock_2.2.04.13-220413000_minAPI26.nodpi._apkmirror.com.apk   
