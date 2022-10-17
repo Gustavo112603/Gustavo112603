@@ -13,7 +13,7 @@
  **Update As Available**
  **Official Content**
 
-## App Pro
+# App Pro
 
 |[**Real.Drum-v10.19.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Drum-v10.19.0-all.apk)
 |-------------------------------------------|
@@ -27,7 +27,7 @@
 [**tiktok-revanced-v26.4.5-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/tiktok-revanced-v26.4.5-all.apk)  
 [**music-revanced-v5.28.51-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.28.51-arm64-v8a.apk)
 
-## Samsung Modules
+# Samsung Modules
 
 |<h6> [**com.samsung.android.appbooster_4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/com.samsung.android.appbooster_4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk)   
 |--------------------------------------------------------------------------------------------------------------------|
