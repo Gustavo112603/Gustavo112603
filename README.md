@@ -15,7 +15,3 @@
 
 
 
-
-
- <font color="#0D497C">**versions Pro**</font>
-
