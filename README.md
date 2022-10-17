@@ -29,24 +29,24 @@
 
 ## Samsung Modules
 
-|<h6> com.samsung.android.appbooster_4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk   
+|<h6> [**com.samsung.android.appbooster_4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()   
 |--------------------------------------------------------------------------------------------------------------------|
 |<h6> [**com.samsung.android.goodlock_2.2.04.13-220413000_minAPI26.nodpi._apkmirror.com.apk**]()   
-|<h6> com.samsung.systemui.notilus_4.2.53.0-425300000_minAPI28.nodpi._apkmirror.com.apk   
-|<h6> com.android.samsung.icebox_3.0.14-301400000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk   
-|<h6> com.samsung.android.qstuner_5.2.00.3-520003000_minAPI29.nodpi._apkmirror.com.apk ·   
-|<h6> com.samsung.android.wonderland.wallpaper_1.2.08-120800000_minAPI29.nodpi._apkmirror.com.apk ·   
-|<h6> com.samsung.android.pentastic_1.1.14-111400000_minAPI29.nodpi._apkmirror.com.apk ·   
-|<h6> com.samsung.android.app.edgetouch_1.1.18-111800000_minAPI26.nodpi._apkmirror.com.apk   
-|<h6> com.android.samsung.utilityapp_3.0.35-303500100_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk ·   
-|<h6> com.samsung.systemui.navillera_4.1.03.20-410320000_minAPI31.nodpi._apkmirror.com.apk   
-|<h6> com.samsung.android.app.captureplugin_2.0.06-200600000_minAPI31.nodpi._apkmirror.com.apk ·   
-|<h6> com.samsung.android.thermalguardian_3.0.46-304600000_minAPI30.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk   
-|<h6> com.samsung.android.sidegesturepad_5.5.25.0-552500000_minAPI24.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk   
-|<h6> com.samsung.android.themedesigner_1.0.09.32-100932000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk ·   
-|<h6> com.samsung.android.memoryguardian_3.0.46-304600000_minAPI30.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk   
-|<h6> com.android.samsung.utilityagent_3.0.45-304500000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk
-|<h6> com.samsung.android.mediaguardian_3.0.46-304600000_minAPI31.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk   
-|<h6> com.samsung.android.statsd_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk   
-|<h6> com.android.samsung.batteryusage_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk   
-|<h6> com.samsung.systemui.lockstar_3.0.00.29-300029000_minAPI31.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk
+|<h6> [**com.samsung.systemui.notilus_4.2.53.0-425300000_minAPI28.nodpi._apkmirror.com.apk**]()   
+|<h6> [**com.android.samsung.icebox_3.0.14-301400000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()  
+|<h6> [**com.samsung.android.qstuner_5.2.00.3-520003000_minAPI29.nodpi._apkmirror.com.apk**]()  
+|<h6> [**com.samsung.android.wonderland.wallpaper_1.2.08-120800000_minAPI29.nodpi._apkmirror.com.apk**]()   
+|<h6> [**com.samsung.android.pentastic_1.1.14-111400000_minAPI29.nodpi._apkmirror.com.apk**]()  
+|<h6> [**com.samsung.android.app.edgetouch_1.1.18-111800000_minAPI26.nodpi._apkmirror.com.apk**]() 
+|<h6> [**com.android.samsung.utilityapp_3.0.35-303500100_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()  
+|<h6> [**com.samsung.systemui.navillera_4.1.03.20-410320000_minAPI31.nodpi._apkmirror.com.apk**]()   
+|<h6> [**com.samsung.android.app.captureplugin_2.0.06-200600000_minAPI31.nodpi._apkmirror.com.apk**]()  
+|<h6> [**com.samsung.android.thermalguardian_3.0.46-304600000_minAPI30.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()  
+|<h6> [**com.samsung.android.sidegesturepad_5.5.25.0-552500000_minAPI24.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**[()   
+|<h6> [**com.samsung.android.themedesigner_1.0.09.32-100932000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()   
+|<h6> [**com.samsung.android.memoryguardian_3.0.46-304600000_minAPI30.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()   
+|<h6> [**com.android.samsung.utilityagent_3.0.45-304500000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()
+|<h6> [**com.samsung.android.mediaguardian_3.0.46-304600000_minAPI31.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()  
+|<h6> [**com.samsung.android.statsd_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()  
+|<h6> [**com.android.samsung.batteryusage_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**]()
+|<h6> [**com.samsung.systemui.lockstar_3.0.00.29-300029000_minAPI31.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk**]()
