@@ -25,6 +25,6 @@ Seal-1.4.0-beta.1-x86_64-release.apk
 twitter-revanced-v9.63.0-release.0-all.apk  
 reddit-revanced-v2022.38.0-all.apk  
 tiktok-revanced-v26.4.5-all.apk  
-music-revanced-v5.28.51-arm64-v8a.apk
+music-revanced-v5.28.51-arm64-v8a.apk!!!
 
 
