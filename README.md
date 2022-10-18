@@ -15,8 +15,9 @@
 
 # App Pro
 
-|[**Real.Guitar.v8.8.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Guitar.v8.8.0-all.apk)   
+|[**app-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/app-release.apk)
 |---------------------------------------------|
+[**Real.Guitar.v8.8.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Guitar.v8.8.0-all.apk)   
 [**Adobe.Photoshop.Express_v8.6.1004-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Photoshop.Express_v8.6.1004-all.apk)
 [**dynamic.Spot_1.19.PRO.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/dynamic.Spot_1.19.PRO.apk)
 [**Spotify.v8.7.70.553-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Spotify.v8.7.70.553-all.apk)
