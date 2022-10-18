@@ -17,6 +17,7 @@
 
 |[**Real.Guitar.v8.8.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Guitar.v8.8.0-all.apk)   
 |---------------------------------------------|
+[**Spotify.v8.7.70.553-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Spotify.v8.7.70.553-all.apk)
 [**Real.Bass.v7.7.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Bass.v7.7.0-all.apk)  
 [**Adobe.Acrobat.Reader_v22.9.1.24121-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Acrobat.Reader_v22.9.1.24121-all.apk)
 [**Real.Drum-v10.19.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Drum-v10.19.0-all.apk)
