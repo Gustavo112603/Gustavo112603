@@ -54,3 +54,15 @@
 |<h6> [**com.samsung.android.statsd_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/com.samsung.android.statsd_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk)  
 |<h6> [**com.android.samsung.batteryusage_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/com.android.samsung.batteryusage_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk)
 |<h6> [**com.samsung.systemui.lockstar_3.0.00.29-300029000_minAPI31.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/com.samsung.systemui.lockstar_3.0.00.29-300029000_minAPI31.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk)
+
+
+## **Attribution (BY)**
+
+```I leave my contributions the Samsung company```
+```I leave my contributions the apkdone```
+```I leave my contributions the Revanced```
+
+``` we thank the companies (Credits)```
+
+
+``` Hi, beautiful people, I'm leaving here the credits to the company that carries the applications that I repost, my apks are original 100% reliable, I work with many apks and I'll be bringing you everything here```
