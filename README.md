@@ -16,8 +16,9 @@
 ![YouTube Music](https://iconape.com/wp-content/files/sq/291603/svg/youtube-premium-seeklogo.com.svg)
 
 
-
-
+|[**youtube-revanced-v17.41.36-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/youtube-revanced-v17.41.36-all.apk)  
+|---------------------------------------------|
+[**music-revanced-v5.28.52-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.28.52-arm64-v8a.apk)
 
 
 
@@ -34,7 +35,6 @@
 [**Real.Bass.v7.7.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Bass.v7.7.0-all.apk)  
 [**Adobe.Acrobat.Reader_v22.9.1.24121-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Acrobat.Reader_v22.9.1.24121-all.apk)
 [**Real.Drum-v10.19.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Drum-v10.19.0-all.apk)
-[**youtube-revanced-v17.41.36-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/youtube-revanced-v17.41.36-all.apk)  
 [**Seal-1.4.0-beta.2-armeabi-v7a-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-armeabi-v7a-release.apk)  
 [**Seal-1.4.0-beta.2-arm64-v8a-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-arm64-v8a-release.apk)  
 [**Seal-1.4.0-beta.2-x86-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-x86-release.apk)  
@@ -42,7 +42,6 @@
 [**twitter-revanced-v9.63.0-release.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/twitter-revanced-v9.63.0-release.0-all.apk) 
 [**reddit-revanced-v2022.39.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/reddit-revanced-v2022.39.0-all.apk)
 [**tiktok-revanced-v26.5.16-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/tiktok-revanced-v26.5.16-all.apk)  
-[**music-revanced-v5.28.52-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.28.52-arm64-v8a.apk)
 
 # Samsung Modules
 
