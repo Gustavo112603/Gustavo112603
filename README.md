@@ -17,6 +17,8 @@
 
 |[**app-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/app-release.apk)
 |---------------------------------------------|
+[**InShot.Pro_v1.868.1382-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal1.0/InShot.Pro_v1.868.1382-all.apk)
+[**True.Amps.v2.5.8-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal1.0/True.Amps.v2.5.8-all.apk)
 [**Real.Guitar.v8.8.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Guitar.v8.8.0-all.apk)   
 [**Adobe.Photoshop.Express_v8.6.1004-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Photoshop.Express_v8.6.1004-all.apk)
 [**dynamic.Spot_1.19.PRO.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/dynamic.Spot_1.19.PRO.apk)
