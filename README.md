@@ -13,6 +13,14 @@
  **Update As Available**
  **Official Content**
 
+![YouTube Music](https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg)
+
+
+
+
+
+
+
 # App Pro
 
 |[**app-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/app-release.apk)
