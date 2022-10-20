@@ -13,7 +13,7 @@
  **Update As Available**
  **Official Content**
 
-!![youtube-premium-seeklogo.com.svg](https://iconape.com/wp-content/files/sq/291603/svg/youtube-premium-seeklogo.com.svg)
+![youtube-premium-seeklogo.com.svg]()(https://iconape.com/wp-content/files/sq/291603/svg/youtube-premium-seeklogo.com.svg)
 
 
 |[**youtube-revanced-v17.41.36-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/youtube-revanced-v17.41.36-all.apk)  
