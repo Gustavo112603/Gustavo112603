@@ -30,8 +30,8 @@
 [**Seal-1.4.0-beta.2-x86-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-x86-release.apk)  
 [**Seal-1.4.0-beta.2-x86_64-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-x86_64-release.apk)  
 [**twitter-revanced-v9.63.0-release.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/twitter-revanced-v9.63.0-release.0-all.apk) 
-[**reddit-revanced-v2022.38.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/reddit-revanced-v2022.38.0-all.apk)
-[**tiktok-revanced-v26.5.5-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/tiktok-revanced-v26.5.5-all.apk)  
+[**reddit-revanced-v2022.39.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/reddit-revanced-v2022.39.0-all.apk)
+[**tiktok-revanced-v26.5.16-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/tiktok-revanced-v26.5.16-all.apk)  
 [**music-revanced-v5.28.52-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.28.52-arm64-v8a.apk)
 
 # Samsung Modules
