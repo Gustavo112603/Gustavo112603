@@ -13,7 +13,7 @@
  **Update As Available**
  **Official Content**
 
-![YouTube Music](https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg)
+![YouTube Music](https://iconape.com/wp-content/files/sq/291603/svg/youtube-premium-seeklogo.com.svg)
 
 
 
