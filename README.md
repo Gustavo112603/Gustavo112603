@@ -45,6 +45,7 @@
 
 |[**app-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/app-release.apk)
 |---------------------------------------------|
+[**Lightroom_v8.0.0**](https://github.com/Gustavo112603/seal/releases/download/Seal20.0/Adobe.Lightroom_v8.0.0_mod_apkdone.com.apk)
 [**InShot.Pro_v1.868.1382-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal17.0/InShot.Pro_v1.868.1382_mod_apkdone.com.apk)
 [**True.Amps.v2.6.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal19.0/True.Amps.v2.6.0.PREMIUM.apk)
 [**Real.Guitar.v8.8.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Guitar.v8.8.0-all.apk)   
