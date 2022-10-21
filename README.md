@@ -13,17 +13,21 @@
  **Update As Available**
  **Official Content**
 
-![](https://www.logo.wine/a/logo/Spotify/Spotify-Logo.wine.svg)
+![](https://camo.githubusercontent.com/5cfbb5f53d3c20987ea8116d8f85b909353107274c76051b36de8ce79d6e9760/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f53706f746966792f53706f746966792d4c6f676f2e77696e652e737667)
+
+|[**Spotify.v8.7.70.553-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Spotify.v8.7.70.553-all.apk)
+|--------------------------------------------|
+[**Spotify Lite.v8.7.70.533-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Spotify.v8.7.70.553.Mod.Lite.apk)
 
 
 
 ![](https://camo.githubusercontent.com/2e9f987095a6f50f20d9c720fca6081f8b2dde8624f701c3c87c308865c93e39/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f66696c65732f73712f3239313630332f7376672f796f75747562652d7072656d69756d2d7365656b6c6f676f2e636f6d2e737667)
 
-
 |[**youtube-revanced-v17.41.36-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/youtube-revanced-v17.41.36-all.apk)  
 |---------------------------------------------|
-[**music-revanced-v5.28.52-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.28.52-arm64-v8a.apk)
-
+[**youtube-revanced-v17.42.32-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/youtube-revanced-v17.42.32-all.apk)
+[**music-revanced-v5.29.52-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.29.52-arm64-v8a.apk)
+[**music-revanced-v5.29.52-arm-v7a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.29.52-arm-v7a.apk)
 
 
 # App Pro
@@ -34,8 +38,7 @@
 [**True.Amps.v2.5.8-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal1.0/True.Amps.v2.5.8-all.apk)
 [**Real.Guitar.v8.8.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Guitar.v8.8.0-all.apk)   
 [**Adobe.Photoshop.Express_v8.6.1004-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Photoshop.Express_v8.6.1004-all.apk)
-[**dynamic.Spot_1.19.PRO.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/dynamic.Spot_1.19.PRO.apk)
-[**Spotify.v8.7.70.553-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Spotify.v8.7.70.553-all.apk)
+[**dynamic.Spot_1.20.PRO.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/dynamic.Spot.v1.20-all.apk)
 [**Real.Bass.v7.7.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Bass.v7.7.0-all.apk)  
 [**Adobe.Acrobat.Reader_v22.9.1.24121-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Acrobat.Reader_v22.9.1.24121-all.apk)
 [**Real.Drum-v10.19.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Drum-v10.19.0-all.apk)
@@ -44,8 +47,8 @@
 [**Seal-1.4.0-beta.2-x86-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-x86-release.apk)  
 [**Seal-1.4.0-beta.2-x86_64-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-x86_64-release.apk)  
 [**twitter-revanced-v9.63.0-release.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/twitter-revanced-v9.63.0-release.0-all.apk) 
-[**reddit-revanced-v2022.39.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/reddit-revanced-v2022.39.0-all.apk)
-[**tiktok-revanced-v26.5.16-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/tiktok-revanced-v26.5.16-all.apk)  
+[**reddit-revanced-v2022.39.1-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/reddit-revanced-v2022.39.1-all.apk)
+[**tiktok-revanced-v26.6.2-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/tiktok-revanced-v26.6.2-all.apk)  
 
 # Samsung Modules
 
