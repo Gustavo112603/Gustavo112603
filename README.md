@@ -13,6 +13,11 @@
  **Update As Available**
  **Official Content**
 
+![](https://camo.githubusercontent.com/a6e1d9e556bd865a2b854662934af3bf590415b49bad5c8fdf19dff76fce3286/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4465657a65722f4465657a65722d4c6f676f2e77696e652e737667)
+
+|[**Deezer.v7.0.7.54-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal1.0/Deezer.v7.0.7.54-all.apk)
+|-------------------------------------------|
+
 ![](https://camo.githubusercontent.com/5cfbb5f53d3c20987ea8116d8f85b909353107274c76051b36de8ce79d6e9760/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f53706f746966792f53706f746966792d4c6f676f2e77696e652e737667)
 
 |[**Spotify.v8.7.70.553-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Spotify.v8.7.70.553-all.apk)
