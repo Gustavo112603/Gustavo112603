@@ -13,6 +13,7 @@
  **Update As Available**
  **Official Content**
 
+
 ![](https://camo.githubusercontent.com/a6e1d9e556bd865a2b854662934af3bf590415b49bad5c8fdf19dff76fce3286/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4465657a65722f4465657a65722d4c6f676f2e77696e652e737667)
 
 |[**Deezer.v7.0.7.54-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal18.0/Deezer.v7.0.7.54.mod.apk)
