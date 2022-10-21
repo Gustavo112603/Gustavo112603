@@ -20,9 +20,8 @@
 
 ![](https://camo.githubusercontent.com/5cfbb5f53d3c20987ea8116d8f85b909353107274c76051b36de8ce79d6e9760/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f53706f746966792f53706f746966792d4c6f676f2e77696e652e737667)
 
-|[**Spotify.v8.7.70.553-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Spotify.v8.7.70.553-all.apk)
+|[**Spotify Revanced.v8.7.76.359-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal13.0/spotify-revanced-v8.7.76.359-all.apk)
 |--------------------------------------------|
-[**Spotify Lite.v8.7.70.533-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Spotify.v8.7.70.553.Mod.Lite.apk)
 
 
 
@@ -58,7 +57,7 @@
 [**Seal-1.4.0-beta.2-arm64-v8a-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-arm64-v8a-release.apk)  
 [**Seal-1.4.0-beta.2-x86-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-x86-release.apk)  
 [**Seal-1.4.0-beta.2-x86_64-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-x86_64-release.apk)  
-[**twitter-revanced-v9.63.0-release.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/twitter-revanced-v9.63.0-release.0-all.apk) 
+[**twitter-revanced-v9.64.0-release.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal15.0/twitter-revanced-v9.64.0-release.0-all.apk) 
 [**reddit-revanced-v2022.39.1-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/reddit-revanced-v2022.39.1-all.apk)
 [**tiktok-revanced-v26.6.2-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/tiktok-revanced-v26.6.2-all.apk)  
 
