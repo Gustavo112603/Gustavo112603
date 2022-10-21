@@ -15,7 +15,7 @@
 
 ![](https://camo.githubusercontent.com/a6e1d9e556bd865a2b854662934af3bf590415b49bad5c8fdf19dff76fce3286/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4465657a65722f4465657a65722d4c6f676f2e77696e652e737667)
 
-|[**Deezer.v7.0.7.54-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal1.0/Deezer.v7.0.7.54-all.apk)
+|[**Deezer.v7.0.7.54-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal18.0/Deezer.v7.0.7.54.mod.apk)
 |-------------------------------------------|
 
 ![](https://camo.githubusercontent.com/5cfbb5f53d3c20987ea8116d8f85b909353107274c76051b36de8ce79d6e9760/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f53706f746966792f53706f746966792d4c6f676f2e77696e652e737667)
@@ -45,8 +45,8 @@
 
 |[**app-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/app-release.apk)
 |---------------------------------------------|
-[**InShot.Pro_v1.868.1382-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal1.0/InShot.Pro_v1.868.1382-all.apk)
-[**True.Amps.v2.5.8-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal1.0/True.Amps.v2.5.8-all.apk)
+[**InShot.Pro_v1.868.1382-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal17.0/InShot.Pro_v1.868.1382_mod_apkdone.com.apk)
+[**True.Amps.v2.6.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal19.0/True.Amps.v2.6.0.PREMIUM.apk)
 [**Real.Guitar.v8.8.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Guitar.v8.8.0-all.apk)   
 [**Adobe.Photoshop.Express_v8.6.1004-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Photoshop.Express_v8.6.1004-all.apk)
 [**dynamic.Spot_1.20.PRO.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/dynamic.Spot.v1.20-all.apk)
