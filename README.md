@@ -26,12 +26,18 @@
 
 
 
-![](https://camo.githubusercontent.com/2e9f987095a6f50f20d9c720fca6081f8b2dde8624f701c3c87c308865c93e39/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f66696c65732f73712f3239313630332f7376672f796f75747562652d7072656d69756d2d7365656b6c6f676f2e636f6d2e737667)
+![](https://camo.githubusercontent.com/326e5bd818b138c8f76425ea79fae26d31754ac041c318f859386537f901d439/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f596f75547562652f596f75547562652d4c6f676f2e77696e652e737667)
 
 |[**youtube-revanced-v17.41.36-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/youtube-revanced-v17.41.36-all.apk)  
 |---------------------------------------------|
 [**youtube-revanced-v17.42.32-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/youtube-revanced-v17.42.32-all.apk)
-[**music-revanced-v5.29.52-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.29.52-arm64-v8a.apk)
+
+
+![](https://camo.githubusercontent.com/48e15ae3cc18ecb174611fc3357c7ddf945f3c0340a00e2dc07187b713d20ff6/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f596f75547562655f4d757369632f596f75547562655f4d757369632d4c6f676f2e77696e652e737667 )
+
+
+|[**music-revanced-v5.29.52-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.29.52-arm64-v8a.apk)
+|---------------------------------------------|
 [**music-revanced-v5.29.52-arm-v7a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.29.52-arm-v7a.apk)
 
 
