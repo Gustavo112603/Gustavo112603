@@ -16,7 +16,7 @@
 
 ![](https://camo.githubusercontent.com/da58bf7bb6e55c5849bd9c52c1d1b1f452757302d84499931826503706f452db/68747470733a2f2f7665746f7265732e6f72672f642f666966612d776f726c642d6375702d71617461722d323032322e737667)
 
-|[**FotMob_Pro_153.10191.20220930-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal21.0/FotMob_Pro_153.10191.20220930-all.apk)
+|[**FotMob_Pro_153.10198.20221007-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal21.0/FotMob.Pro_v153.10198.20221007-all.apk)
 |------------------------------------------|
 
 ![](https://camo.githubusercontent.com/a6e1d9e556bd865a2b854662934af3bf590415b49bad5c8fdf19dff76fce3286/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4465657a65722f4465657a65722d4c6f676f2e77696e652e737667)
@@ -51,7 +51,7 @@
 |[**app-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/app-release.apk)
 |---------------------------------------------|
 [**Lightroom_v8.0.0**](https://github.com/Gustavo112603/seal/releases/download/Seal20.0/Adobe.Lightroom_v8.0.0_mod_apkdone.com.apk)
-[**InShot.Pro_v1.868.1382-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal17.0/InShot.Pro_v1.868.1382_mod_apkdone.com.apk)
+[**InShot.Pro_v1.869.1383-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal17.0/InShot_v1.869.1383-all.apk)
 [**True.Amps.v2.6.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal19.0/True.Amps.v2.6.0.PREMIUM.apk)
 [**Real.Guitar.v8.8.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Guitar.v8.8.0-all.apk)   
 [**Adobe.Photoshop.Express_v8.6.1004-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Photoshop.Express_v8.6.1004-all.apk)
@@ -65,7 +65,7 @@
 [**Seal-1.4.0-beta.2-x86_64-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.2-x86_64-release.apk)  
 [**twitter-revanced-v9.64.0-release.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal15.0/twitter-revanced-v9.64.0-release.0-all.apk) 
 [**reddit-revanced-v2022.39.1-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/reddit-revanced-v2022.39.1-all.apk)
-[**tiktok-revanced-v26.6.2-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/tiktok-revanced-v26.6.2-all.apk)  
+[**tiktok-revanced-v26.6.4-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal14.0/tiktok-revanced-v26.6.4-all.apk)  
 
 # Samsung Modules
 
