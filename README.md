@@ -90,7 +90,7 @@
 |<h6> [**com.samsung.android.mediaguardian_3.0.46-304600000_minAPI31.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/Samsung.mediaguardian_3.0.46-304600000_minAPI31.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk)  
 |<h6> [**com.samsung.android.statsd_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/Samsung.statsd_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk)  
 |<h6> [**com.android.samsung.batteryusage_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/Samsung.batteryusage_3.0.46-304600000_minAPI29.arm64-v8a.armeabi-v7a.apk)
-|<h6> [**com.samsung.systemui.lockstar_3.0.00.29-300029000_minAPI31.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk(https://github.com/Gustavo112603/seal/releases/download/Samsung/Samsung.lockstar_3.0.00.29-300029000_minAPI31.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk)
+|<h6> [**com.samsung.systemui.lockstar_3.0.00.29-300029000_minAPI31.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/Samsung.lockstar_3.0.00.29-300029000_minAPI31.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk)
 
 
 ## **Attribution (BY)**
