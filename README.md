@@ -72,8 +72,8 @@
 
 |<h6> [**com.samsung.android.appbooster_4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/Samsung.appbooster_4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk)   
 |--------------------------------------------------------------------------------------------------------------------|
-|<h6> [**com.samsung.android.goodlock_2.2.04.13-220413000_minAPI26.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/com.samsung.android.goodlock_2.2.04.13-220413000_minAPI26.nodpi._apkmirror.com.apk)   
-|<h6> [**com.samsung.systemui.notilus_4.2.53.0-425300000_minAPI28.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/com.samsung.systemui.notilus_4.2.53.0-425300000_minAPI28.nodpi._apkmirror.com.apk)   
+|<h6> [**com.samsung.android.goodlock_2.2.04.46-220446000_minAPI26.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/Samsung.goodlock_2.2.04.46-220446000_minAPI26.nodpi._apkmirror.com.apk)   
+|<h6> [**com.samsung.systemui.notilus_5.1.08.0-510800000_minAPI28.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/Samsung.notilus_5.1.08.0-510800000_minAPI28.nodpi._apkmirror.com.apk)   
 |<h6> [**com.android.samsung.icebox_3.0.14-301400000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/com.android.samsung.icebox_3.0.14-301400000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk)  
 |<h6> [**com.samsung.android.qstuner_5.2.00.3-520003000_minAPI29.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/com.samsung.android.qstuner_5.2.00.3-520003000_minAPI29.nodpi._apkmirror.com.apk)  
 |<h6> [**com.samsung.android.wonderland.wallpaper_1.2.08-120800000_minAPI29.nodpi._apkmirror.com.apk**](https://github.com/Gustavo112603/seal/releases/download/Samsung/com.samsung.android.wonderland.wallpaper_1.2.08-120800000_minAPI29.nodpi._apkmirror.com.apk)   
