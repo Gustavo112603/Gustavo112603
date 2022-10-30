@@ -22,6 +22,11 @@
 |[**FotMob_Pro_153.10198.20221007-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal21.0/FotMob.Pro_v153.10198.20221007-all.apk)
 |------------------------------------------|
 
+![](https://camo.githubusercontent.com/ace0f46d47a466941676ef06b1d1fe93de10066ce099ecb3390a4ecf1e5fccba/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f546964616c5f2873657276696365292f546964616c5f2873657276696365292d4c6f676f2e77696e652e737667)
+
+|[**TIDAL.music_v2.69.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/TIDAL.Music_v2.69.0-all.apk)
+|------------------------------------------|
+
 ![](https://camo.githubusercontent.com/a6e1d9e556bd865a2b854662934af3bf590415b49bad5c8fdf19dff76fce3286/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4465657a65722f4465657a65722d4c6f676f2e77696e652e737667)
 
 |[**Deezer.v7.0.7.54-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal18.0/Deezer.v7.0.7.54.mod.apk)
