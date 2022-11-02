@@ -61,8 +61,8 @@
 
 |[**app-release.v0.6.1-Beta.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/app-release.v0.6.1-Beta.apk)
 |---------------------------------------------|
-[**Lightroom_v8.0.0**]()
-[**InShot.Pro_v1.869.1383-all.apk**]()
+[**Lightroom_v8.0.0**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Adobe.Lightroom_v8.0.0-all.apk)
+[**InShot.Pro_v1.869.1383-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/InShot_v1.869.1383-all.apk)
 [**Terabox_3.3.3-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Terabox_v3.3.3-all.apk)
 [**Real.Guitar.v8.8.1-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Real.Guitar.v8.8.1-all.apk)   
 [**Adobe.Photoshop.Express_v8.6.1012-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Adobe.Photoshop.Express_v8.6.1012-all.apk)
