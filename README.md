@@ -32,7 +32,7 @@
 
 ![](https://camo.githubusercontent.com/a6e1d9e556bd865a2b854662934af3bf590415b49bad5c8fdf19dff76fce3286/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4465657a65722f4465657a65722d4c6f676f2e77696e652e737667)
 
-|[**Deezer.v7.0.7.54-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal18.0/Deezer.v7.0.7.54.mod.apk)
+|[**Deezer.v7.0.15.51-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Deezer.v7.0.7.54.mod.apk)
 |-------------------------------------------|
 
 ![](https://camo.githubusercontent.com/5cfbb5f53d3c20987ea8116d8f85b909353107274c76051b36de8ce79d6e9760/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f53706f746966792f53706f746966792d4c6f676f2e77696e652e737667)
@@ -59,25 +59,25 @@
 
 # App Pro
 
-|[**app-release.v0.6.1-Beta.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/app-release.v0.6.1-Beta.apk)
+|[**app-release.v0.6.1-Beta.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/app-release.v0.6.1-Beta.apk)
 |---------------------------------------------|
-[**Lightroom_v8.0.0**](https://github.com/Gustavo112603/seal/releases/download/Seal20.0/Adobe.Lightroom_v8.0.0_mod_apkdone.com.apk)
-[**InShot.Pro_v1.869.1383-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal17.0/InShot_v1.869.1383-all.apk)
-[**True.Amps.v2.6.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal19.0/True.Amps.v2.6.0.PREMIUM.apk)
-[**Real.Guitar.v8.8.1-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal10.0/Real.Guitar.v8.8.1-all.apk)   
-[**Adobe.Photoshop.Express_v8.6.1008-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Photoshop.Express_v8.6.1008-all.apk)
-[**dynamic.Spot_1.25.PRO.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/dynamic_Spot.v1.25-all.apk)
-[**Real.Bass.v7.7.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Bass.v7.7.0-all.apk)  
-[**Adobe.Acrobat.Reader_v22.9.1.24417Beta-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Adobe.Acrobat.Reader_v22.10.0.24417-all.apk)
-[**Real.Drum-v10.19.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Real.Drum-v10.19.0-all.apk)
-[**Seal-1.4.0-beta.3-armeabi-v7a-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.3-armeabi-v7a-release.apk)  
-[**Seal-1.4.0-beta.3-arm64-v8a-release.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/Seal-1.4.0-beta.3-arm64-v8a-release.apk)  
-[**CreativeApp.v3.1.10-all**](https://github.com/Gustavo112603/seal/releases/download/Seal/CreativeApp.v3.1.10-all.apk)
-[**Nomad.Music.v1.21.8-all**](https://github.com/Gustavo112603/seal/releases/download/Seal/Nomad.Music.v1.21.8-all.apk)  
-[**twitter-revanced-v9.65.1-release.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/twitter-revanced-v9.65.1-release.0-all.apk) 
-[**reddit-revanced-v2022.40.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/reddit-revanced-v2022.40.0-all.apk)
-[**tiktok-revanced-v26.7.4-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/tiktok-revanced-v26.7.4-all.apk)  
-[**TIDAL.music_v2.69.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/TIDAL.Music_v2.69.0-all.apk)
+[**Lightroom_v8.0.0**]()
+[**InShot.Pro_v1.869.1383-all.apk**]()
+[**Terabox_3.3.3-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Terabox_v3.3.3-all.apk)
+[**Real.Guitar.v8.8.1-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Real.Guitar.v8.8.1-all.apk)   
+[**Adobe.Photoshop.Express_v8.6.1012-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Adobe.Photoshop.Express_v8.6.1012-all.apk)
+[**dynamic.Spot_1.27.PRO.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/dynamicSpot.v1.27-all.apk)
+[**Real.Bass.v7.7.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Real.Bass.v7.7.0-all.apk)  
+[**Adobe.Acrobat.Reader_v22.9.1.24417Beta-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Adobe.Acrobat.Reader_v22.10.0.24417-all.apk)
+[**Real.Drum-v10.19.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Real.Drum-v10.19.0-all.apk)
+[**Seal-1.4.0-beta.3-armeabi-v7a-release.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Seal-1.4.0-beta.3-armeabi-v7a-release.apk)  
+[**Seal-1.4.0-beta.3-arm64-v8a-release.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Seal-1.4.0-beta.3-arm64-v8a-release.apk)  
+[**CreativeApp.v3.1.10-all**](https://github.com/Gustavo112603/Android13/releases/download/Android13/CreativeApp.v3.1.10-all.apk)
+[**Nomad.Music.v1.22.1-all**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Nomad.Music.v1.22.1-all.apk)  
+[**twitter-revanced-v9.65.1-release.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/twitter-revanced-v9.65.1-release.0-all.apk) 
+[**reddit-revanced-v2022.40.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/reddit-revanced-v2022.40.0-all.apk)
+[**tiktok-revanced-v26.7.5-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/tiktok-revanced-v26.7.5-all.apk)  
+[**TIDAL.music_v2.71.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/TIDAL.Music_v2.71.0-all.apk)
 
 # Samsung Modules
 
