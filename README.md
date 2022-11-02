@@ -27,12 +27,12 @@
 
 ![](https://camo.githubusercontent.com/da58bf7bb6e55c5849bd9c52c1d1b1f452757302d84499931826503706f452db/68747470733a2f2f7665746f7265732e6f72672f642f666966612d776f726c642d6375702d71617461722d323032322e737667)
 
-|[**FotMob_Pro_153.10198.20221007-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal21.0/FotMob.Pro_v153.10198.20221007-all.apk)
+|[**FotMob_Pro_153.10218.20221024-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/FotMob.Pro.v156.10218.20221024-all.apk)
 |------------------------------------------|
 
 ![](https://camo.githubusercontent.com/ace0f46d47a466941676ef06b1d1fe93de10066ce099ecb3390a4ecf1e5fccba/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f546964616c5f2873657276696365292f546964616c5f2873657276696365292d4c6f676f2e77696e652e737667)
 
-|[**TIDAL.music_v2.69.0-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/TIDAL.Music_v2.69.0-all.apk)
+|[**TIDAL.music_v2.71.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/TIDAL.Music_v2.71.0-all.apk)
 |------------------------------------------|
 
 ![](https://camo.githubusercontent.com/a6e1d9e556bd865a2b854662934af3bf590415b49bad5c8fdf19dff76fce3286/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4465657a65722f4465657a65722d4c6f676f2e77696e652e737667)
@@ -42,14 +42,14 @@
 
 ![](https://camo.githubusercontent.com/5cfbb5f53d3c20987ea8116d8f85b909353107274c76051b36de8ce79d6e9760/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f53706f746966792f53706f746966792d4c6f676f2e77696e652e737667)
 
-|[**Spotify Revanced.v8.7.78.373-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/spotify-revanced-v8.7.78.373-all.apk)
+|[**Spotify Revanced.v8.7.78.373-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/spotify-revanced-v8.7.78.373-all.apk)
 |--------------------------------------------|
 
 
 
 ![](https://camo.githubusercontent.com/326e5bd818b138c8f76425ea79fae26d31754ac041c318f859386537f901d439/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f596f75547562652f596f75547562652d4c6f676f2e77696e652e737667)
 
-|[**youtube-revanced-v17.43.35-all.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/youtube-revanced-v17.43.35-all.apk)  
+|[**youtube-revanced-v17.43.35-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/youtube-revanced-v17.43.36-all.apk)  
 |---------------------------------------------|
 
 
@@ -57,9 +57,9 @@
 ![](https://camo.githubusercontent.com/48e15ae3cc18ecb174611fc3357c7ddf945f3c0340a00e2dc07187b713d20ff6/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f596f75547562655f4d757369632f596f75547562655f4d757369632d4c6f676f2e77696e652e737667 )
 
 
-|[**music-revanced-v5.30.51-arm64-v8a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.30.51-arm64-v8a.apk)
+|[**music-revanced-v5.30.51-arm64-v8a.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/music-revanced-v5.30.51-arm64-v8a.apk)
 |---------------------------------------------|
-[**music-revanced-v5.30.51-arm-v7a.apk**](https://github.com/Gustavo112603/seal/releases/download/Seal/music-revanced-v5.30.51-arm-v7a.apk)
+[**music-revanced-v5.30.51-arm-v7a.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/music-revanced-v5.30.51-arm-v7a.apk)
 
 
 # App Pro
