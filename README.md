@@ -44,7 +44,7 @@
 
 ![](https://camo.githubusercontent.com/326e5bd818b138c8f76425ea79fae26d31754ac041c318f859386537f901d439/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f596f75547562652f596f75547562652d4c6f676f2e77696e652e737667)
 
-|[**youtube-revanced-v17.43.35-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/youtube-revanced-v17.43.36-all.apk)  
+|[**youtube-revanced-v17.43.36-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/youtube-revanced-v17.43.36-all.apk)  
 |---------------------------------------------|
 
 
