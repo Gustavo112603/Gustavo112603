@@ -1,5 +1,9 @@
 ### AppModsPro 
 
+![](https://camo.githubusercontent.com/d6a3cd1ab4d864a441ded523565b866d056b4243da05a0eb7c866450792a68f4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36652f41646f62655f436f72706f726174655f6c6f676f2e737667)
+
+|[**Adobe.Reader_v22.9.1.24417Beta-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Adobe.Acrobat.Reader_v22.10.0.24417-all.apk)
+|-----------------------------------------|
 
 ![](https://camo.githubusercontent.com/8199e3ee1252b4b630d85a7acf4b8dc006218c85587a257e81c391cb90404a16/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f476f6f676c652f476f6f676c652d4c6f676f2e77696e652e737667)
 
@@ -68,7 +72,6 @@
 [**Adobe.Photoshop.Express_v8.6.1012-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Adobe.Photoshop.Express_v8.6.1012-all.apk)
 [**dynamic.Spot_1.27.PRO.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/dynamicSpot.v1.27-all.apk)
 [**Real.Bass.v7.7.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Real.Bass.v7.7.0-all.apk)  
-[**Adobe.Acrobat.Reader_v22.9.1.24417Beta-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Adobe.Acrobat.Reader_v22.10.0.24417-all.apk)
 [**Real.Drum-v10.19.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Real.Drum-v10.19.0-all.apk)
 [**Seal-1.4.0-beta.3-armeabi-v7a-release.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Seal-1.4.0-beta.3-armeabi-v7a-release.apk)  
 [**Seal-1.4.0-beta.3-arm64-v8a-release.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Seal-1.4.0-beta.3-arm64-v8a-release.apk)  
