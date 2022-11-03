@@ -91,7 +91,7 @@
 [**Nomad.Music.v1.22.1-all**](https://github.com/Gustavo112603/Android13/releases/download/Android13/Nomad.Music.v1.22.1-all.apk)  
 [**twitter-revanced-v9.65.1-release.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/twitter-revanced-v9.65.1-release.0-all.apk) 
 [**reddit-revanced-v2022.40.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/reddit-revanced-v2022.40.0-all.apk)
-[**tiktok-revanced-v26.7.5-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/tiktok-revanced-v26.7.5-all.apk)  
+[**tiktok-revanced-v26.7.15-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/tiktok-revanced-v26.7.15-all.apk)  
 [**TIDAL.music_v2.71.0-all.apk**](https://github.com/Gustavo112603/Android13/releases/download/Android13/TIDAL.Music_v2.71.0-all.apk)
 
 # Samsung Modules
