@@ -107,7 +107,7 @@
 |<h6> **com.samsung.android.app.edgetouch_1.1.18-111800000_minAPI26.nodpi._apkmirror.com.apk**
 |<h6> **com.android.samsung.utilityapp_3.0.35-303500100_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**  
 |<h6> **com.samsung.systemui.navillera_4.1.03.20-410320000_minAPI31.nodpi._apkmirror.com.apk**
-|<h6> **com.samsung.android.app.captureplugin_2.0.06-200600000_minAPI31.nodpi._apkmirror.com.apk**]
+|<h6> **com.samsung.android.app.captureplugin_2.0.06-200600000_minAPI31.nodpi._apkmirror.com.apk**
 |<h6> **com.samsung.android.thermalguardian_4.0.04-400400000_minAPI30.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**
 |<h6> **com.samsung.android.sidegesturepad_5.5.25.0-552500000_minAPI24.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**
 |<h6> **com.samsung.android.themedesigner_1.0.09.41-100941000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**
