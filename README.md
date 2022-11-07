@@ -77,7 +77,7 @@
 
 |**app-release.v0.6.7-Beta.apk**
 |---------------------------------------------|
-**Smallpdf v1.44.0-all.apk
+**Smallpdf v1.44.0-all.apk**
 **Balance v1.65.0-all.apk**
 **HotspotShield_v9.9.0-all.apk**
 **Lightroom_v8.0.0**
