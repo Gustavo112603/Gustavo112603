@@ -4,7 +4,7 @@
 
 |**Mimo_3.101-all.apk**
 |----------------------------------------|
-**Balance.v1.64.0-all.apk**
+**Balance.v1.65.0-all.apk**
 **Re_Work.Email.Calendar.v1.3.38-all.apk**
 
 ![](https://camo.githubusercontent.com/8199e3ee1252b4b630d85a7acf4b8dc006218c85587a257e81c391cb90404a16/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f476f6f676c652f476f6f676c652d4c6f676f2e77696e652e737667)
@@ -43,24 +43,24 @@
 
 ![](https://camo.githubusercontent.com/ace0f46d47a466941676ef06b1d1fe93de10066ce099ecb3390a4ecf1e5fccba/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f546964616c5f2873657276696365292f546964616c5f2873657276696365292d4c6f676f2e77696e652e737667)
 
-|**TIDAL.music_v2.71.0-all.apk**
+|**TIDAL.music_v2.72.0-all.apk**
 |------------------------------------------|
 
 ![](https://camo.githubusercontent.com/a6e1d9e556bd865a2b854662934af3bf590415b49bad5c8fdf19dff76fce3286/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4465657a65722f4465657a65722d4c6f676f2e77696e652e737667)
 
-|**Deezer.v7.0.15.51-all.apk**
+|**Deezer.v7.0.17.19-all.apk**
 |-------------------------------------------|
 
 ![](https://camo.githubusercontent.com/5cfbb5f53d3c20987ea8116d8f85b909353107274c76051b36de8ce79d6e9760/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f53706f746966792f53706f746966792d4c6f676f2e77696e652e737667)
 
-|**Spotify Revanced.v8.7.78.373-all.apk**
+|**Spotify Revanced.v8.7.78.383-all.apk**
 |--------------------------------------------|
 
 
 
 ![](https://camo.githubusercontent.com/326e5bd818b138c8f76425ea79fae26d31754ac041c318f859386537f901d439/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f596f75547562652f596f75547562652d4c6f676f2e77696e652e737667)
 
-|**youtube-revanced-v17.44.32-all.apk**
+|**youtube-revanced-v17.44.34-all.apk**
 |---------------------------------------------|
 
 
@@ -75,29 +75,37 @@
 
 # App Pro
 
-|**app-release.v0.6.5-Beta.apk**
+|**app-release.v0.6.7-Beta.apk**
 |---------------------------------------------|
+**Smallpdf v1.44.0-all.apk
+**Balance v1.65.0-all.apk**
+**HotspotShield_v9.9.0-all.apk**
 **Lightroom_v8.0.0**
-**InShot.Pro_v1.869.1383-all.apk**
+**Re_Work Email Calendar v1.3.38-all.apk**
+**Xodo_PDF v8.2.2-all.apk**
+**Mimo v3.101-all.apk**
+**InShot.Pro_v1.871.1385-all.apk**
+**Photomath v8.14.0-all.apk**
 **Terabox_3.3.3-all.apk**
 **Real.Guitar.v8.8.1-all.apk** 
 **Adobe.Photoshop.Express_v8.6.1012-all.apk**
-**dynamic.Spot_1.27.PRO.apk**
+**dynamic.Spot_1.30.PRO.apk**
 **Real.Bass.v7.7.0-all.apk**
 **Real.Drum-v10.19.0-all.apk**
 **Seal-1.4.0-beta.3-armeabi-v7a-release.apk**
 **Seal-1.4.0-beta.3-arm64-v8a-release.apk**
 **CreativeApp.v3.1.10-all**
-**Nomad.Music.v1.22.1-all**
+**Nomad.Music.v1.22.3-all**
 **twitter-revanced-v9.65.1-release.0-all.apk**
 **reddit-revanced-v2022.41.1-all.apk**
 **tiktok-revanced-v26.7.15-all.apk**
-**TIDAL.music_v2.71.0-all.apk**
+**TIDAL.music_v2.72.0-all.apk**
 
 # Samsung Modules
 
 |<h6> **com.samsung.android.appbooster_4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk** 
 |--------------------------------------------------------------------------------------------------------------------|
+|<h6> **com.samsung.dropship_client_0.8.5-1_minAPI30(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk**
 |<h6> **com.samsung.android.goodlock_2.2.04.46-220446000_minAPI26.nodpi._apkmirror.com.apk**
 |<h6> **com.samsung.systemui.notilus_5.1.08.0-510800000_minAPI28.nodpi._apkmirror.com.apk**
 |<h6> **com.android.samsung.icebox_3.0.14-301400000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**
