@@ -84,7 +84,7 @@
 **Re_Work Email Calendar v1.3.38-all.apk**
 **Xodo_PDF v8.2.2-all.apk**
 **Mimo v3.101-all.apk**
-**InShot.Pro_v1.871.1385-all.apk**
+**InShot.Pro_v1.872.1386-all.apk**
 **Photomath v8.14.0-all.apk**
 **Terabox_3.3.3-all.apk**
 **Real.Guitar.v8.8.1-all.apk** 
