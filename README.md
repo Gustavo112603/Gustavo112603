@@ -38,7 +38,7 @@
 
 ![](https://camo.githubusercontent.com/d6a3cd1ab4d864a441ded523565b866d056b4243da05a0eb7c866450792a68f4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36652f41646f62655f436f72706f726174655f6c6f676f2e737667)
 
-|**Adobe.Reader_v22.9.1.24417Beta-all.apk**
+|**Adobe.Reader_v22.10.0.24437--all.apk**
 |-----------------------------------------|
 
 ![](https://camo.githubusercontent.com/ace0f46d47a466941676ef06b1d1fe93de10066ce099ecb3390a4ecf1e5fccba/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f546964616c5f2873657276696365292f546964616c5f2873657276696365292d4c6f676f2e77696e652e737667)
@@ -68,14 +68,14 @@
 ![](https://camo.githubusercontent.com/48e15ae3cc18ecb174611fc3357c7ddf945f3c0340a00e2dc07187b713d20ff6/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f596f75547562655f4d757369632f596f75547562655f4d757369632d4c6f676f2e77696e652e737667 )
 
 
-|**music-revanced-v5.31.50-arm64-v8a.apk**
+|**music-revanced-v5.32.50-arm64-v8a.apk**
 |---------------------------------------------|
-**music-revanced-v5.31.50-arm-v7a.apk**
+**music-revanced-v5.32.50-arm-v7a.apk**
 
 
 # App Pro
 
-|**app-release.v0.6.7-Beta.apk**
+|**app-release.v0.6.8-Beta.apk**
 |---------------------------------------------|
 **Smallpdf v1.44.0-all.apk**
 **Balance v1.65.0-all.apk**
@@ -91,9 +91,9 @@
 **Adobe.Photoshop.Express_v8.6.1012-all.apk**
 **dynamic.Spot_1.30.PRO.apk**
 **Real.Bass.v7.7.0-all.apk**
-**Real.Drum-v10.19.0-all.apk**
-**Seal-1.4.0-beta.3-armeabi-v7a-release.apk**
-**Seal-1.4.0-beta.3-arm64-v8a-release.apk**
+**Real.Drum-v10.20.0-all.apk**
+**Seal-1.5.0-beta.1-armeabi-v7a-release.apk**
+**Seal-1.5.0-beta.1-arm64-v8a-release.apk**
 **CreativeApp.v3.1.10-all**
 **Nomad.Music.v1.22.3-all**
 **twitter-revanced-v9.65.1-release.0-all.apk**
