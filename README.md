@@ -1,8 +1,12 @@
 ### AppModsPro 
 
+com.samsung.android.app.galaxyregistry_1.0.21-102100000_minAPI33(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk
+
+
+
 ![](https://camo.githubusercontent.com/39278f63cbd24c7fb255389b1a81e371c69640dffe1d4ecfb439b3b0dcba6367/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4f6e655f55492f4f6e655f55492d4c6f676f2e77696e652e737667)
 
-|**Mimo_3.101-all.apk**
+|**Mimo_3.102-all.apk**
 |----------------------------------------|
 **Balance.v1.65.0-all.apk**
 **Re_Work.Email.Calendar.v1.3.38-all.apk**
@@ -28,7 +32,7 @@
 
 ![](https://camo.githubusercontent.com/da58bf7bb6e55c5849bd9c52c1d1b1f452757302d84499931826503706f452db/68747470733a2f2f7665746f7265732e6f72672f642f666966612d776f726c642d6375702d71617461722d323032322e737667)
 
-|**FotMob_Pro_153.10218.20221024-all.apk**
+|**FotMob v156.10218.20221024-all.apk**
 |------------------------------------------|
 
 
@@ -77,21 +81,22 @@
 
 |**app-release.v0.6.8-Beta.apk**
 |---------------------------------------------|
+**U-Dictionary v6.4.3-all.apk**
 **Smallpdf v1.44.0-all.apk**
 **Balance v1.65.0-all.apk**
 **HotspotShield_v9.9.0-all.apk**
 **Lightroom_v8.0.0**
 **Re_Work Email Calendar v1.3.38-all.apk**
 **Xodo_PDF v8.2.2-all.apk**
-**Mimo v3.101-all.apk**
+**Mimo v3.102-all.apk**
 **InShot.Pro_v1.872.1386-all.apk**
 **Photomath v8.14.0-all.apk**
 **Terabox_3.3.3-all.apk**
-**Real.Guitar.v8.8.1-all.apk** 
+**Real.Guitar.v8.9.1-all.apk** 
 **Adobe.Photoshop.Express_v8.6.1012-all.apk**
 **dynamic.Spot_1.30.PRO.apk**
 **Real.Bass.v7.7.0-all.apk**
-**Real.Drum-v10.20.0-all.apk**
+**Real.Drum-v10.20.1-all.apk**
 **Seal-1.5.0-beta.1-armeabi-v7a-release.apk**
 **Seal-1.5.0-beta.1-arm64-v8a-release.apk**
 **CreativeApp.v3.1.10-all**
@@ -106,6 +111,8 @@
 |<h6> **com.samsung.android.appbooster_4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk** 
 |--------------------------------------------------------------------------------------------------------------------|
 |<h6> **com.samsung.dropship_client_0.8.5-1_minAPI30(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk**
+|<h6> **com.samsung.android.app.cameraassistant_1.0.00.4-100004000_minAPI33(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk**
+|<h6> **com.samsung.android.app.galaxyregistry_1.0.21-102100000_minAPI33(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk**
 |<h6> **com.samsung.android.goodlock_2.2.04.46-220446000_minAPI26.nodpi._apkmirror.com.apk**
 |<h6> **com.samsung.systemui.notilus_5.1.08.0-510800000_minAPI28.nodpi._apkmirror.com.apk**
 |<h6> **com.android.samsung.icebox_3.0.14-301400000_minAPI28.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk**
