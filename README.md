@@ -1,7 +1,7 @@
 ### AppModsPro 
 
 
-![](https://images-fonearena-com.cdn.ampproject.org/ii/w820/s/images.fonearena.com/blog/wp-content/uploads/2022/11/Sasmung-RegiStar-1.jpg)
+![](https://camo.githubusercontent.com/91b3a343ff40c8a1132e450ea6c0871b01c38b782f4fc734c2060759df23b714/68747470733a2f2f696d616765732d666f6e656172656e612d636f6d2e63646e2e616d7070726f6a6563742e6f72672f69692f773832302f732f696d616765732e666f6e656172656e612e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032322f31312f5361736d756e672d52656769537461722d312e6a7067)
 
 com.samsung.android.app.galaxyregistry_1.0.21-102100000_minAPI33(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk
 
