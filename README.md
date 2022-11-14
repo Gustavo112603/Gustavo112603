@@ -45,7 +45,7 @@ com.samsung.android.app.galaxyregistry_1.0.21-102100000_minAPI33(arm64-v8a,armea
 
 ![](https://camo.githubusercontent.com/d6a3cd1ab4d864a441ded523565b866d056b4243da05a0eb7c866450792a68f4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36652f41646f62655f436f72706f726174655f6c6f676f2e737667)
 
-|**Adobe.Reader_v22.10.0.24437-all.apk**
+|**Adobe.Reader_v22.10.0.24446-all.apk**
 |-----------------------------------------|
 
 ![](https://camo.githubusercontent.com/ace0f46d47a466941676ef06b1d1fe93de10066ce099ecb3390a4ecf1e5fccba/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f546964616c5f2873657276696365292f546964616c5f2873657276696365292d4c6f676f2e77696e652e737667)
@@ -55,19 +55,19 @@ com.samsung.android.app.galaxyregistry_1.0.21-102100000_minAPI33(arm64-v8a,armea
 
 ![](https://camo.githubusercontent.com/a6e1d9e556bd865a2b854662934af3bf590415b49bad5c8fdf19dff76fce3286/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4465657a65722f4465657a65722d4c6f676f2e77696e652e737667)
 
-|**Deezer.v7.0.17.19-all.apk**
+|**Deezer.v7.0.18.1-all.apk**
 |-------------------------------------------|
 
 ![](https://camo.githubusercontent.com/5cfbb5f53d3c20987ea8116d8f85b909353107274c76051b36de8ce79d6e9760/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f53706f746966792f53706f746966792d4c6f676f2e77696e652e737667)
 
-|**Spotify Revanced.v8.7.78.383-all.apk**
+|**Spotify Revanced.v8.7.82.94-all.apk**
 |--------------------------------------------|
 
 
 
 ![](https://camo.githubusercontent.com/326e5bd818b138c8f76425ea79fae26d31754ac041c318f859386537f901d439/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f596f75547562652f596f75547562652d4c6f676f2e77696e652e737667)
 
-|**youtube-revanced-v17.44.34-all.apk**
+|**youtube-revanced-v17.45.34-all.apk**
 |---------------------------------------------|
 
 
@@ -82,12 +82,13 @@ com.samsung.android.app.galaxyregistry_1.0.21-102100000_minAPI33(arm64-v8a,armea
 
 # App Pro
 
-|**app-release.v0.6.8-Beta.apk**
+|**app-release.v0.7.2-Beta.apk**
 |---------------------------------------------|
+**twitch-revanced-v14.1.0-all.apk**
 **U-Dictionary v6.4.3-all.apk**
 **Smallpdf v1.44.0-all.apk**
 **Balance v1.65.0-all.apk**
-**HotspotShield_v9.9.0-all.apk**
+**HotspotShield_v9.10.0-all.apk**
 **Lightroom_v8.0.0**
 **Re_Work Email Calendar v1.3.38-all.apk**
 **Xodo_PDF v8.2.2-all.apk**
@@ -96,17 +97,17 @@ com.samsung.android.app.galaxyregistry_1.0.21-102100000_minAPI33(arm64-v8a,armea
 **Photomath v8.14.0-all.apk**
 **Terabox_3.3.3-all.apk**
 **Real.Guitar.v8.9.1-all.apk** 
-**Adobe.Photoshop.Express_v8.6.1012-all.apk**
-**dynamic.Spot_1.30.PRO.apk**
+**Adobe.Photoshop.Express_v8.6.1015-all.apk**
+**dynamic.Spot_1.31.PRO.apk**
 **Real.Bass.v7.7.0-all.apk**
 **Real.Drum-v10.20.1-all.apk**
 **Seal-1.5.0-beta.1-armeabi-v7a-release.apk**
 **Seal-1.5.0-beta.1-arm64-v8a-release.apk**
 **CreativeApp.v3.1.10-all**
 **Nomad.Music.v1.22.3-all**
-**twitter-revanced-v9.65.1-release.0-all.apk**
-**reddit-revanced-v2022.41.1-all.apk**
-**tiktok-revanced-v26.7.15-all.apk**
+**twitter-revanced-v9.65.3-release.0-all.apk**
+**reddit-revanced-v2022.42.0-all.apk**
+**tiktok-revanced-v26.9.3-all.apk**
 **TIDAL.music_v2.72.0-all.apk**
 
 # Samsung Modules
