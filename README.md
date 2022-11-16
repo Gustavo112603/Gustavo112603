@@ -29,13 +29,14 @@ Music Revanced Version.5.33.51-arm-v7a.apk
 
 App Pro
 
+Avast One Version.22.11.0-all.apk
 App Release Version.0.7.3-Beta.apk 
 Twitch Revanced Version.14.1.0-all.apk
 U Dictionary Version.6.4.3-all.apk
 Smallpdf Version.1.44.0-all.apk
 Balance Version.1.65.0-all.apk
 HotspotShield Version.9.10.0-all.apk
-Lightroom Version.8.0.0
+Lightroom Version.8.0.1
 Re_Work Email Calendar Version.1.3.38-all.apk
 Xodo_PDF Version.8.2.2-all.apk
 Mimo Version.3.102-all.apk
