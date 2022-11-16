@@ -1,5 +1,5 @@
 
-~~~javascript
+~~~CoffeeScript
 AppModsPro 
 
 
@@ -29,7 +29,7 @@ Music Revanced.v5.32.50-arm-v7a.apk
 
 App Pro
 
-App Release.v0.7.2-Beta.apk
+App Release v0.7.2-Beta.apk
 Twitch Revanced-v14.1.0-all.apk
 U Dictionary v6.4.3-all.apk
 Smallpdf v1.44.0-all.apk
@@ -44,7 +44,7 @@ Photomath v8.14.0-all.apk
 Terabox_3.3.3-all.apk
 Real Guitar.v8.9.1-all.apk
 Adobe Photoshop Express.v8.6.1015-all.apk
-Dynamic Spot.1.31.PRO.apk
+Dynamic Spot.1.31.apk
 Real Bass.v7.7.0-all.apk
 Real Drum-v10.20.1-all.apk
 Seal-1.5.0-beta.1-armeabi-v7a-release.apk
