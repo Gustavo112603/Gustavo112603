@@ -29,6 +29,7 @@ Music Revanced Version.5.33.51-arm-v7a.apk
 
 App Pro
 
+Vymusic Version.0.5.4-all.apk
 Avast One Version.22.11.0-all.apk
 App Release Version.0.7.3-Beta.apk 
 Twitch Revanced Version.14.1.0-all.apk
