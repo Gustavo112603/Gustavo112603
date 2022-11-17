@@ -44,7 +44,7 @@ Xodo_PDF Version.8.2.2-all.apk
 Mimo Version.3.102-all.apk
 InShot Pro Version.1.872.1386-all.apk
 Photomath Version.8.14.0-all.apk
-Terabox Version.3.3.5-all.apk
+Terabox Version.3.4.1-all.apk
 Real Guitar Version.8.9.1-all.apk
 Adobe Photoshop Express Version.8.6.1015-all.apk
 Dynamic Spot Version.1.32.apk
