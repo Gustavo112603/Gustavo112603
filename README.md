@@ -30,6 +30,8 @@ Music Revanced Version.5.33.51-arm-v7a.apk
 App Pro
 
 CoffeeScript Version.10.09.26.1-all.apk
+
+Moises Version.2.5.3-all.apk
 Vymusic Version.0.5.4-all.apk
 Avast One Version.22.11.0-all.apk
 App Release Version.0.7.4-Beta.apk 
