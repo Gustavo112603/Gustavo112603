@@ -55,7 +55,7 @@ Real Drum Version.10.20.1-all.apk
 Seal Version.1.6.0-beta.1-armeabi-v7a-release.apk
 Seal Version.1.6.0-beta.1-arm64-v8a-release.apk
 CreativeApp Version.3.1.10-all.apk
-Nomad Music Version.1.22.3-all.apk
+Nomad Music Version.1.22.4-all.apk
 Twitter Revanced Version.9.65.3-release.0-all.apk
 Reddit Revanced Version.2022.43.0-all.apk
 Tiktok Revanced Version.26.9.4-all.apk
