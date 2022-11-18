@@ -29,7 +29,7 @@ Music Revanced Version.5.33.51-arm-v7a.apk
 
 App Pro
 
-CoffeeScript Version.11.10.27.2-all.apk
+CoffeeScript Version.11.10.28.2-all.apk
 
 Moises Version.2.5.3-all.apk
 Vymusic Version.0.5.4-all.apk
