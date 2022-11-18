@@ -32,7 +32,7 @@ App Pro
 CoffeeScript Version.10.09.26.1-all.apk
 Vymusic Version.0.5.4-all.apk
 Avast One Version.22.11.0-all.apk
-App Release Version.0.7.3-Beta.apk 
+App Release Version.0.7.4-Beta.apk 
 Twitch Revanced Version.14.1.0-all.apk
 U Dictionary Version.6.4.3-all.apk
 Smallpdf Version.1.44.0-all.apk
@@ -50,8 +50,8 @@ Adobe Photoshop Express Version.8.6.1015-all.apk
 Dynamic Spot Version.1.32.apk
 Real Bass Version.7.7.0-all.apk
 Real Drum Version.10.20.1-all.apk
-Seal Version.1.5.0-beta.1-armeabi-v7a-release.apk
-Seal Version.1.5.0-beta.1-arm64-v8a-release.apk
+Seal Version.1.6.0-beta.1-armeabi-v7a-release.apk
+Seal Version.1.6.0-beta.1-arm64-v8a-release.apk
 CreativeApp Version.3.1.10-all.apk
 Nomad Music Version.1.22.3-all.apk
 Twitter Revanced Version.9.65.3-release.0-all.apk
