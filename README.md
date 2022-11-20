@@ -5,8 +5,8 @@ AppModsPro
 
 com.samsung.android.app.galaxyregistry.1.0.21-102100000_minAPI33(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk
 
-Mimo Version.i.3.103-all.apk
-Balance Version.1.65.0-all.apk
+Mimo Version.3.103.1-all.apk
+Balance Version.1.66.0-all.apk
 Re_Work Email Calendar Version.1.3.38-all.apk
 
 
@@ -34,7 +34,7 @@ CoffeeScript Version.12.14.31.5-all.apk
 Moises Version.2.5.3-all.apk
 Vymusic Version.0.5.4-all.apk
 Avast One Version.22.11.0-all.apk
-App Release Version.0.7.4-Beta.apk 
+App Release Version.0.7.6-Beta.apk 
 Twitch Revanced Version.14.1.0-all.apk
 U Dictionary Version.6.4.3-all.apk
 Smallpdf Version.1.44.0-all.apk
