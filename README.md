@@ -25,7 +25,7 @@ Spotify Revanced Version.8.7.82.94-all.apk
 Youtube Revanced Version.17.46.37-all.apk
 Music Revanced Version.5.33.51-arm64-v8a.apk
 Music Revanced Version.5.33.51-arm-v7a.apk
-Spotify Lite.1.9.0.24346-all.apk
+Spotify Lite Version.1.9.0.24346-all.apk
 
 App Pro
 
