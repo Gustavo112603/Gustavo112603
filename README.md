@@ -22,7 +22,7 @@ Adobe Reader Version.22.10.0.24446-all.apk
 Tidal Music Version.2.72.0-all.apk
 Deezer Version.7.0.18.1-all.apk
 Spotify Revanced Version.8.7.82.94-all.apk
-Youtube Revanced Version.17.46.33-all.apk
+Youtube Revanced Version.17.46.37-all.apk
 Music Revanced Version.5.33.51-arm64-v8a.apk
 Music Revanced Version.5.33.51-arm-v7a.apk
 
@@ -58,7 +58,7 @@ CreativeApp Version.3.1.10-all.apk
 Nomad Music Version.1.22.4-all.apk
 Twitter Revanced Version.9.65.5-release.0-all.apk
 Reddit Revanced Version.2022.43.0-all.apk
-Tiktok Revanced Version.27.0.15-all.apk
+Tiktok Revanced Version.27.0.16-all.apk
 Twitch Revanced Version.14.1.0-all.apk
 Tidal Music Version.2.72.0-all.apk
 
