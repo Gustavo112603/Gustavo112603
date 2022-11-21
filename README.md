@@ -18,6 +18,7 @@ Update As Available
 Official Content
 
 FotMob Version.156.10218.20221024-all.apk
+Adobe Scan Version.22.11.18-all.apk
 Adobe Reader Version.22.10.0.24446-all.apk
 Tidal Music Version.2.72.0-all.apk
 Deezer Version.7.0.18.1-all.apk
