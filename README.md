@@ -48,15 +48,15 @@ Re_Work Email Calendar Version.1.3.38-all.apk
 Xodo_PDF Version.8.2.2-all.apk
 Mimo Version.3.102-all.apk
 InShot Pro Version.1.872.1386-all.apk
-Photomath Version.8.14.0-all.apk
-Terabox Version.3.4.1-all.apk
+Photomath Version.8.15.0-all.apk
+Terabox Version.3.4.5-all.apk
 Real Guitar Version.8.9.1-all.apk
 Adobe Photoshop Express Version.8.6.1015-all.apk
-Dynamic Spot Version.1.32.apk
+Dynamic Spot Version.1.35.apk
 Real Bass Version.7.7.0-all.apk
 Real Drum Version.10.20.1-all.apk
-Seal Version.1.6.0-beta.1-armeabi-v7a-release.apk
-Seal Version.1.6.0-beta.1-arm64-v8a-release.apk
+Seal Version.1.6.0-beta.2-armeabi-v7a-release.apk
+Seal Version.1.6.0-beta.2-arm64-v8a-release.apk
 CreativeApp Version.3.1.10-all.apk
 Nomad Music Version.1.22.4-all.apk
 Twitter Revanced Version.9.65.5-release.0-all.apk
