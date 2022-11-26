@@ -32,6 +32,7 @@ App Pro
 
 CoffeeScript Version.12.14.31.5-all.apk
 
+YouCine Version.1.7.1-all.apk
 HboMax Version.52.50.0.6-all.apk
 Moises Version.2.5.3-all.apk
 Vymusic Version.0.5.4-all.apk
