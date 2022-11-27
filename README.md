@@ -68,11 +68,11 @@ Tiktok Revanced Version.27.0.3-all.apk
 Twitch Revanced Version.14.1.0-all.apk
 Tidal Music Version.2.73.0-all.apk
 
-Samsung Modules
+Samsung Modules 
 
 com samsung.android.appbooster.4.0.04-400400000_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk
 com samsung.dropship_client.0.8.5-1_minAPI30(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk
-com samsung.android.app.cameraassistant.1.0.00.4-100004000_minAPI33(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk
+com samsung.android.app.cameraassistant.1.0.00.5-100005000_minAPI33(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk
 com samsung.android.app.galaxyregistry.1.0.21-102100000_minAPI33(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk
 com samsung.android.goodlock.2.2.04.46-220446000_minAPI26.nodpi._apkmirror.com.apk
 com samsung.systemui.notilus.5.1.08.0-510800000_minAPI28.nodpi._apkmirror.com.apk
