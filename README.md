@@ -18,6 +18,9 @@ Update As Available
 Official Content
 
 FotMob Version.156.10218.20221024-all.apk
+
+Antivirus Version.6.54.0-all.apk
+Avast Cleanup Version.6.6.2-all.apk
 Adobe Scan Version.22.11.18-all.apk
 Adobe Reader Version.22.10.0.24446-all.apk
 Tidal Music Version.2.73.0-all.apk
