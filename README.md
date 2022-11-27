@@ -37,7 +37,7 @@ HboMax Version.52.50.0.6-all.apk
 Moises Version.2.5.3-all.apk
 Vymusic Version.0.5.4-all.apk
 Avast One Version.22.11.0-all.apk
-App Release Version.0.7.6-Beta.apk 
+App Release Version.0.8.1-Beta.apk 
 Twitch Revanced Version.14.2.0-all.apk
 U Dictionary Version.6.4.3-all.apk
 Smallpdf Version.1.44.0-all.apk
@@ -46,24 +46,24 @@ HotspotShield Version.9.10.0-all.apk
 Lightroom Version.8.0.1
 Re_Work Email Calendar Version.1.3.38-all.apk
 Xodo_PDF Version.8.2.2-all.apk
-Mimo Version.3.102-all.apk
+Mimo Version.3.104-all.apk
 InShot Pro Version.1.872.1386-all.apk
 Photomath Version.8.15.0-all.apk
-Terabox Version.3.4.5-all.apk
+Terabox Version.3.5.0-all.apk
 Real Guitar Version.8.9.1-all.apk
 Adobe Photoshop Express Version.8.6.1015-all.apk
-Dynamic Spot Version.1.35.apk
+Dynamic Spot Version.1.36.apk
 Real Bass Version.7.7.0-all.apk
 Real Drum Version.10.20.1-all.apk
 Seal Version.1.6.0-beta.2-armeabi-v7a-release.apk
 Seal Version.1.6.0-beta.2-arm64-v8a-release.apk
-CreativeApp Version.3.1.10-all.apk
-Nomad Music Version.1.22.4-all.apk
-Twitter Revanced Version.9.65.5-release.0-all.apk
+CreativeApp Version.3.1.11-all.apk
+Nomad Music Version.1.22.7-all.apk
+Twitter Revanced Version.9.65.6-release.0-all.apk
 Reddit Revanced Version.2022.43.0-all.apk
-Tiktok Revanced Version.27.0.16-all.apk
+Tiktok Revanced Version.27.0.3-all.apk
 Twitch Revanced Version.14.1.0-all.apk
-Tidal Music Version.2.72.0-all.apk
+Tidal Music Version.2.73.0-all.apk
 
 Samsung Modules
 
