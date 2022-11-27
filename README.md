@@ -22,7 +22,7 @@ Adobe Scan Version.22.11.18-all.apk
 Adobe Reader Version.22.10.0.24446-all.apk
 Tidal Music Version.2.73.0-all.apk
 Deezer Version.7.0.19.1-all.apk
-Spotify Revanced Version.8.7.84.382-all.apk
+Spotify Revanced Version.8.7.86.422-all.apk
 Youtube Revanced Version.17.46.37-all.apk
 Music Revanced Version.5.33.51-arm64-v8a.apk
 Music Revanced Version.5.33.51-arm-v7a.apk
