@@ -54,7 +54,7 @@ Photomath Version.8.15.0-all.apk
 Terabox Version.3.5.0-all.apk
 Real Guitar Version.8.9.1-all.apk
 Adobe Photoshop Express Version.8.6.1015-all.apk
-Dynamic Spot Version.1.36.apk
+Dynamic Spot Version.1.36.b10099-all.apk
 Real Bass Version.7.9.0-all.apk
 Real Drum Version.10.26.0-all.apk
 Seal Version.1.7.0-beta.1-armeabi-v7a-release.apk
