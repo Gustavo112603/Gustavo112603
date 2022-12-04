@@ -24,7 +24,7 @@ Avast Cleanup Version.6.6.2-all.apk
 Adobe Scan Version.22.11.18-all.apk
 Adobe Reader Version.22.10.0.24446-all.apk
 Tidal Music Version.2.73.0-all.apk
-Deezer Version.7.0.19.1-all.apk
+Deezer Version.7.0.19.22-all.apk
 Spotify Revanced Version.8.7.86.422-all.apk
 Youtube Revanced Version.17.46.34-all.apk
 Music Revanced Version.5.34.51-arm64-v8a.apk
