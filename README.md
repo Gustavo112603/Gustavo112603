@@ -49,7 +49,7 @@ Lightroom Version.8.0.1
 Re_Work Email Calendar Version.1.3.40-all.apk
 Xodo_PDF Version.8.2.4-all.apk
 Mimo Version.3.105-all.apk
-InShot Pro Version.1.872.1386-all.apk
+InShot Pro Version.1.880.1388-all.apk
 Photomath Version.8.15.0-all.apk
 Terabox Version.3.5.0-all.apk
 Real Guitar Version.8.9.1-all.apk
