@@ -34,7 +34,7 @@ Spotify Lite Version.1.9.0.24346-all.apk
 App Pro
 
 CoffeeScript Version.12.14.31.5-all.apk
-
+Pornhub Version.6.11.0-all.apk (+18)
 YouCine Version.1.7.1-all.apk
 HboMax Version.52.50.0.6-all.apk
 Moises Version.2.5.3-all.apk
@@ -42,7 +42,7 @@ Vymusic Version.0.5.4-all.apk
 Avast One Version.22.11.0-all.apk
 App Release Version.0.8.1-Beta.apk 
 U Dictionary Version.6.4.3-all.apk
-Smallpdf Version.1.44.0-all.apk
+Smallpdf Version.1.44.2-all.apk
 Balance Version.1.66.0-all.apk
 HotspotShield Version.9.11.0-all.apk
 Lightroom Version.8.0.1
