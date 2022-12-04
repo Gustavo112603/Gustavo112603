@@ -5,9 +5,9 @@ AppModsPro
 
 com.samsung.android.app.galaxyregistry.1.0.21-102100000_minAPI33(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk
 
-Mimo Version.3.104-all.apk
+Mimo Version.3.105-all.apk
 Balance Version.1.66.0-all.apk
-Re_Work Email Calendar Version.1.3.38-all.apk
+Re_Work Email Calendar Version.1.3.40-all.apk
 
 
 Originals Application
@@ -26,9 +26,9 @@ Adobe Reader Version.22.10.0.24446-all.apk
 Tidal Music Version.2.73.0-all.apk
 Deezer Version.7.0.19.1-all.apk
 Spotify Revanced Version.8.7.86.422-all.apk
-Youtube Revanced Version.17.46.37-all.apk
-Music Revanced Version.5.33.51-arm64-v8a.apk
-Music Revanced Version.5.33.51-arm-v7a.apk
+Youtube Revanced Version.17.46.34-all.apk
+Music Revanced Version.5.34.51-arm64-v8a.apk
+Music Revanced Version.5.34.51-arm-v7a.apk
 Spotify Lite Version.1.9.0.24346-all.apk
 
 App Pro
@@ -44,10 +44,10 @@ App Release Version.0.8.1-Beta.apk
 U Dictionary Version.6.4.3-all.apk
 Smallpdf Version.1.44.0-all.apk
 Balance Version.1.66.0-all.apk
-HotspotShield Version.9.10.0-all.apk
+HotspotShield Version.9.11.0-all.apk
 Lightroom Version.8.0.1
-Re_Work Email Calendar Version.1.3.38-all.apk
-Xodo_PDF Version.8.2.2-all.apk
+Re_Work Email Calendar Version.1.3.40-all.apk
+Xodo_PDF Version.8.2.4-all.apk
 Mimo Version.3.105-all.apk
 InShot Pro Version.1.872.1386-all.apk
 Photomath Version.8.15.0-all.apk
